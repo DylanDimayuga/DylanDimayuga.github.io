@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/dylandimayuga.github.io/static/css/main.ecf4fe13.chunk.css",
+    "main.js": "/dylandimayuga.github.io/static/js/main.db12311f.chunk.js",
+    "main.js.map": "/dylandimayuga.github.io/static/js/main.db12311f.chunk.js.map",
+    "runtime-main.js": "/dylandimayuga.github.io/static/js/runtime-main.b76a68f5.js",
+    "runtime-main.js.map": "/dylandimayuga.github.io/static/js/runtime-main.b76a68f5.js.map",
+    "static/js/2.2930ea83.chunk.js": "/dylandimayuga.github.io/static/js/2.2930ea83.chunk.js",
+    "static/js/2.2930ea83.chunk.js.map": "/dylandimayuga.github.io/static/js/2.2930ea83.chunk.js.map",
+    "index.html": "/dylandimayuga.github.io/index.html",
+    "static/css/main.ecf4fe13.chunk.css.map": "/dylandimayuga.github.io/static/css/main.ecf4fe13.chunk.css.map",
+    "static/js/2.2930ea83.chunk.js.LICENSE.txt": "/dylandimayuga.github.io/static/js/2.2930ea83.chunk.js.LICENSE.txt",
+    "static/media/About-Me-Quiz.png": "/dylandimayuga.github.io/static/media/About-Me-Quiz.f38bfad8.png",
+    "static/media/E-Commerce.png": "/dylandimayuga.github.io/static/media/E-Commerce.eea8a779.png",
+    "static/media/Fitness-Tracker.png": "/dylandimayuga.github.io/static/media/Fitness-Tracker.efdb6218.png",
+    "static/media/Note-Taker.png": "/dylandimayuga.github.io/static/media/Note-Taker.996cfe17.png",
+    "static/media/Online-Offline-Budget-Tracker.png": "/dylandimayuga.github.io/static/media/Online-Offline-Budget-Tracker.f9a131ce.png",
+    "static/media/Password-Generator.png": "/dylandimayuga.github.io/static/media/Password-Generator.2fd68531.png",
+    "static/media/React-Portfolio.png": "/dylandimayuga.github.io/static/media/React-Portfolio.16fd67db.png",
+    "static/media/Readme-Generator.png": "/dylandimayuga.github.io/static/media/Readme-Generator.b0bb9cc0.png",
+    "static/media/Team-Profile-Generator.png": "/dylandimayuga.github.io/static/media/Team-Profile-Generator.30c6158a.png",
+    "static/media/Tech-Blog.png": "/dylandimayuga.github.io/static/media/Tech-Blog.900f682f.png",
+    "static/media/Weather-Dashboard.png": "/dylandimayuga.github.io/static/media/Weather-Dashboard.4530f7ee.png",
+    "static/media/Work-Day-Scheduler.png": "/dylandimayuga.github.io/static/media/Work-Day-Scheduler.5d9d5f15.png",
+    "static/media/muskytweets.png": "/dylandimayuga.github.io/static/media/muskytweets.e1e0501d.png",
+    "static/media/video-game-database.png": "/dylandimayuga.github.io/static/media/video-game-database.1b7daf6b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b76a68f5.js",
+    "static/js/2.2930ea83.chunk.js",
+    "static/css/main.ecf4fe13.chunk.css",
+    "static/js/main.db12311f.chunk.js"
+  ]
+}
